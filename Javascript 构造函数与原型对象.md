@@ -1,0 +1,1 @@
+![image](https://raw.githubusercontent.com/VillaZhang/img-folder/master/JS对象中的构造函数和实例原型.png)
